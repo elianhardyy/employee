@@ -19,12 +19,12 @@
 </ul>
 
 <p>Route</p>
-<code>1. POST { api/employee/add } </code>
-<code>2. POST { api/employee/login } </code>
-<code>3. GET { api/employee/home } </code>
-<code>4. GET { api/employee/find } </code>
-<code>5. PUT { api/employee/employee/:id } </code>
-<code>6. DELETE { api/employee/employee/:id } </code>
+<code>1. POST { api/employee/add } </code><br>
+<code>2. POST { api/employee/login } </code><br>
+<code>3. GET { api/employee/home } </code><br>
+<code>4. GET { api/employee/find } </code><br>
+<code>5. PUT { api/employee/employee/:id } </code><br>
+<code>6. DELETE { api/employee/employee/:id } </code><br>
 
 <p>Pattern</p>
 <ul>
