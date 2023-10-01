@@ -1,5 +1,14 @@
 <h1> EMPLOYEE </h1>
-<p>Membuat model</p>
+<h6>Module</h6>
+<ul>
+  <li>AppModule</li>
+  <li>EmployeeModule</li>
+  <li>JwtModule</li>
+  <li>PassportModule</li>
+  <li>TypeOrmModule</li>
+<ul>
+<br>
+<h6>Membuat model</h6>
 <ul>
   <li>Nama</li>
   <li>Phone</li>
@@ -8,8 +17,8 @@
   <li>Created at</li>
   <li>Updated at</li>
 </ul>
-
-<p>Membuat guard, terdiri dari LocalAuthGuard dan JwtAuthGuard</p>
+<br>
+<h6>Membuat guard, terdiri dari LocalAuthGuard dan JwtAuthGuard</h6>
 <ul>
   <li>SessionSerializer</li>
   <li>LocalStrategy</li>
@@ -17,16 +26,16 @@
   <li>JwtStrategy</li>
   <li>JwtAuthGuard</li>
 </ul>
-
-<p>Route</p>
+<br>
+<h6>Route</h6>
 <code>1. POST { api/employee/add } </code><br>
 <code>2. POST { api/employee/login } </code><br>
 <code>3. GET { api/employee/home } </code><br>
 <code>4. GET { api/employee/find } </code><br>
 <code>5. PUT { api/employee/employee/:id } </code><br>
 <code>6. DELETE { api/employee/employee/:id } </code><br>
-
-<p>Pattern</p>
+<br>
+<h6>Pattern</h6>
 <ul>
   <li>Register dengan route seperti nomer 1 </li>
   <li>Login dengan route seperti nomer 2 </li>
