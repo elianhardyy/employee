@@ -7,7 +7,7 @@
   <li>PassportModule</li>
   <li>TypeOrmModule</li>
 <ul>
-<br>
+
 <h3>Membuat model</h3>
 <ul>
   <li>Nama</li>
